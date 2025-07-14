@@ -1,5 +1,6 @@
 {
-  "name": "bvs_lab",
+  "name": "mi-app-react",
+  "homepage": "/wp-content/uploads/react-apps/mi-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
